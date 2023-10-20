@@ -2,13 +2,13 @@
 - language = "Python"
 
 \# 👀 I’m interested in: 
-- print(f"Learning how to code {language.title()} and starting a new journey!")
+- print("Learning how to code" + language.title() + "and starting a new journey!")
   
 \# 🌱 I’m currently learning:
-- print(f"I am learning {language.title()}.)
+- print("I am learning" + language.title())
   
 \# 💞️ I’m looking to collaborate on:
-- print("I don't have any ideas of collaboration at this time.")
+- print("I don't have any ideas for collaboration at this time.")
   
 \# 📫 How to reach me ...
 - print("Reach out to me here @gir8")
